@@ -23,4 +23,3 @@ message("Base directory found : ${BASE_DIRECTORY_OWN}")
 # add subdirectories
 add_subdirectory("core")
 add_subdirectory("vulkan_model_viewer")
-add_subdirectory("vulkan_model_viewer_ref")
