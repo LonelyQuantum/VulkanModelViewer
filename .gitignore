@@ -1,2 +1,3 @@
 vulkan_model_viewer/models/*
 build/*
+*.spv
