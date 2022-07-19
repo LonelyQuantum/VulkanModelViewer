@@ -1,7 +1,7 @@
 ## Vulkan Model Viewer
 
 
-Open the project directory in the terminal and type `cmake -S . -B build` to build the project.
+Open the project directory in the terminal and run `cmake -S . -B build` to build the project.
 
 A model viewer built from Vulkan API. Support the loading and viewing of .obj files with .mtl material.
 
